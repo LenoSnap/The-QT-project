@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/btn_favorite_no1.png</file>
+        <file>images/btn_favorite_no2.png</file>
+        <file>images/btn_listcircle1.png</file>
+        <file>images/btn_listcircle2.png</file>
+        <file>images/btn_listcircle3.png</file>
+        <file>images/btn_listcircle4.png</file>
+        <file>images/btn_listcircle5.png</file>
+        <file>images/btn_menu1.png</file>
+        <file>images/btn_menu2.png</file>
+        <file>images/btn_next1.png</file>
+        <file>images/btn_next2.png</file>
+        <file>images/btn_pause1.png</file>
+        <file>images/btn_pause2.png</file>
+        <file>images/btn_play1.png</file>
+        <file>images/btn_play2.png</file>
+        <file>images/btn_previous1.png</file>
+        <file>images/btn_previous2.png</file>
+        <file>images/btn_volume1.png</file>
+        <file>images/btn_volume2.png</file>
+        <file>images/DRI1.jpg</file>
+        <file>images/DRI2.jpg</file>
+    </qresource>
+</RCC>
